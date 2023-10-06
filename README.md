@@ -15,9 +15,9 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 ## The Blue Oyster
 | Color         | Hex | RGB | CTERM | Comment |
 |---|---|---|---|---|
-| base03        |    ![#5f005f](https://via.placeholder.com/15/002b36/5f005f.png) `#5f005f`| 95, 0, 95     | 53  |    |
-| base02        |    ![#8700af](https://via.placeholder.com/15/073642/8700af.png) `#8700af`| 135, 0, 175   | 91  |    |
-| base01        |    ![#af87d7](https://via.placeholder.com/15/586e75/af87d7.png) `#af87d7`| 175, 135, 215 | 140 |    |
+| base03        |    ![#5f005f](https://via.placeholder.com/15/5f005f/5f005f.png) `#5f005f`| 95, 0, 95     | 53  |    |
+| base02        |    ![#8700af](https://via.placeholder.com/15/8700af/8700af.png) `#8700af`| 135, 0, 175   | 91  |    |
+| base01        |    ![#af87d7](https://via.placeholder.com/15/af87d7/af87d7.png) `#af87d7`| 175, 135, 215 | 140 |    |
 | base00        |    ![#657b83](https://via.placeholder.com/15/657b83/657b83.png) `#657b83`|               |     |    |
 | base0         |    ![#839496](https://via.placeholder.com/15/839496/839496.png) `#839496`|               |     |    |
 | base1         |    ![#93a1a1](https://via.placeholder.com/15/93a1a1/93a1a1.png) `#93a1a1`|               |     |    |
