@@ -38,14 +38,14 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 #### dwm related colors
 | Color   | Hex                                                                    | RGB         | CTERM | Comment              |
 |---------|------------------------------------------------------------------------|-------------|-------|----------------------|
-| color0  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
-| color1  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
-| color2  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
-| color3  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
-| color4  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
-| color5  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
-| color6  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
-| color7  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
+| color0  | ![#859900](https://via.placeholder.com/15/680000/680000.png) `#680000` |             |       |                      |
+| color1  | ![#859900](https://via.placeholder.com/15/7c2b00/7c2b00.png) `#7c2b00` |             |       |                      |
+| color2  | ![#859900](https://via.placeholder.com/15/695700/695700.png) `#695700` |             |       |                      |
+| color3  | ![#859900](https://via.placeholder.com/15/044f00/044f00.png) `#044f00` |             |       |                      |
+| color4  | ![#859900](https://via.placeholder.com/15/00505e/00505e.png) `#00505e` |             |       |                      |
+| color5  | ![#859900](https://via.placeholder.com/15/000d63/000d63.png) `#000d63` |             |       |                      |
+| color6  | ![#859900](https://via.placeholder.com/15/360063/360063.png) `#360063` |             |       |                      |
+| color7  | ![#859900](https://via.placeholder.com/15/6e0039/6e0039.png) `#6e0039` |             |       |                      |
 | color8  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
 | color9  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
 | color10 | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
