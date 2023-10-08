@@ -36,24 +36,24 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 | green   | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` | 133,153,0   | 64    | green         |
 
 #### dwm related colors
-| Color   | Hex                                                                    | RGB         | CTERM | Comment       |
-|---------|------------------------------------------------------------------------|-------------|-------|---------------|
-| color0  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |               |
-| color1  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |               |
-| color2  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |               |
-| color3  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |               |
-| color4  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |               |
-| color5  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |               |
-| color6  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |               |
-| color7  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |               |
-| color8  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |               |
-| color9  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |               |
-| color10 | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |               |
-| color11 | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |               |
-| color12 | ![#859900](https://via.placeholder.com/15/af87d7/af87d7.png) `#af87d7` |             |       | Medium Purple |
-| color13 | ![#859900](https://via.placeholder.com/15/444444/444444.png) `#444444` |             |       | Light Grey    |
-| color14 | ![#859900](https://via.placeholder.com/15/bbbbbb/bbbbbb.png) `#bbbbbb` |             |       | Medium Grey   |
-| color15 | ![#859900](https://via.placeholder.com/15/eeeeee/eeeeee.png) `#eeeeee` |             |       | Dark Grey     |
+| Color   | Hex                                                                    | RGB | CTERM | Comment       |
+|---------|------------------------------------------------------------------------|-----|-------|---------------|
+| color0  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
+| color1  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
+| color2  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
+| color3  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
+| color4  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
+| color5  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
+| color6  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
+| color7  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
+| color8  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
+| color9  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
+| color10 | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
+| color11 | ![#859900](https://via.placeholder.com/15/af00d7/af00d7.png) `#af00d7` |     |       |               |
+| color12 | ![#859900](https://via.placeholder.com/15/af87d7/af87d7.png) `#af87d7` |     |       | Medium Purple |
+| color13 | ![#859900](https://via.placeholder.com/15/444444/444444.png) `#444444` |     |       | Dark Grey     |
+| color14 | ![#859900](https://via.placeholder.com/15/bbbbbb/bbbbbb.png) `#bbbbbb` |     |       | Medium Grey   |
+| color15 | ![#859900](https://via.placeholder.com/15/eeeeee/eeeeee.png) `#eeeeee` |     |       | Light Grey    |
 
 
 
