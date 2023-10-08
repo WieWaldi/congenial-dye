@@ -36,24 +36,24 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 | green   | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` | 133,153,0   | 64    | green         |
 
 #### dwm related colors
-| Color   | Hex                                                                    | RGB | CTERM | Comment       |
-|---------|------------------------------------------------------------------------|-----|-------|---------------|
-| color0  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
-| color1  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
-| color2  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
-| color3  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
-| color4  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
-| color5  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
-| color6  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
-| color7  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
-| color8  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
-| color9  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
-| color10 | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |     |       |               |
-| color11 | ![#859900](https://via.placeholder.com/15/af00d7/af00d7.png) `#af00d7` |     |       |               |
-| color12 | ![#859900](https://via.placeholder.com/15/af87d7/af87d7.png) `#af87d7` |     |       | Medium Purple |
-| color13 | ![#859900](https://via.placeholder.com/15/444444/444444.png) `#444444` |     |       | Dark Grey     |
-| color14 | ![#859900](https://via.placeholder.com/15/bbbbbb/bbbbbb.png) `#bbbbbb` |     |       | Medium Grey   |
-| color15 | ![#859900](https://via.placeholder.com/15/eeeeee/eeeeee.png) `#eeeeee` |     |       | Light Grey    |
+| Color   | Hex                                                                    | RGB         | CTERM | Comment              |
+|---------|------------------------------------------------------------------------|-------------|-------|----------------------|
+| color0  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
+| color1  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
+| color2  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
+| color3  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
+| color4  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
+| color5  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
+| color6  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
+| color7  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
+| color8  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
+| color9  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
+| color10 | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
+| color11 | ![#859900](https://via.placeholder.com/15/af00d7/af00d7.png) `#af00d7` | 175,0,215   | 128   | DarkViolet           |
+| color12 | ![#859900](https://via.placeholder.com/15/af87d7/af87d7.png) `#af87d7` | 175,135,215 | 140   | MediumPurple2        |
+| color13 | ![#859900](https://via.placeholder.com/15/444444/444444.png) `#444444` | 68,68,68    | 238   | Dark Grey (Grey27)   |
+| color14 | ![#859900](https://via.placeholder.com/15/bcbcbc/bcbcbc.png) `#bcbcbc` | 188,188,188 | 250   | Medium Grey (Grey74) |
+| color15 | ![#859900](https://via.placeholder.com/15/eeeeee/eeeeee.png) `#eeeeee` | 238,238,238 | 255   | Light Grey (Grey93)  |
 
 
 
@@ -87,4 +87,3 @@ since it give me easy access to all the files without git cloning the complete
 repository.  
 
 Version 0.1
-brblack   
