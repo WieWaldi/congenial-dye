@@ -46,9 +46,9 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 | color5  | ![#859900](https://via.placeholder.com/15/000d63/000d63.png) `#000d63` |             |       |                      |
 | color6  | ![#859900](https://via.placeholder.com/15/360063/360063.png) `#360063` |             |       |                      |
 | color7  | ![#859900](https://via.placeholder.com/15/6e0039/6e0039.png) `#6e0039` |             |       |                      |
-| color8  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
-| color9  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
-| color10 | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |                      |
+| color8  | ![#859900](https://via.placeholder.com/15/000000/000000.png) `#000000` |             |       |                      |
+| color9  | ![#859900](https://via.placeholder.com/15/000000/000000.png) `#000000` |             |       |                      |
+| color10 | ![#859900](https://via.placeholder.com/15/000000/000000.png) `#000000` |             |       |                      |
 | color11 | ![#859900](https://via.placeholder.com/15/af00d7/af00d7.png) `#af00d7` | 175,0,215   | 128   | DarkViolet           |
 | color12 | ![#859900](https://via.placeholder.com/15/af87d7/af87d7.png) `#af87d7` | 175,135,215 | 140   | MediumPurple2        |
 | color13 | ![#859900](https://via.placeholder.com/15/444444/444444.png) `#444444` | 68,68,68    | 238   | Dark Grey (Grey27)   |
