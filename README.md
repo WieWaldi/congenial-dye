@@ -36,6 +36,8 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 | green   | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` | 133,153,0   | 64    | green         |
 
 #### dwm related colors
+| Color   | Hex                                                                    | RGB         | CTERM | Comment       |
+|---------|------------------------------------------------------------------------|-------------|-------|---------------|
 | color0  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |               |
 | color1  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |               |
 | color2  | ![#859900](https://via.placeholder.com/15/859900/859900.png) `#859900` |             |       |               |
