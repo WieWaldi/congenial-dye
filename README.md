@@ -14,6 +14,7 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 [Wikipedia](https://en.wikipedia.org/wiki/File:Xterm_256color_chart.svg) - File:Xterm 256color chart.svg  
 [256 Colors Cheat Sheet](https://www.ditig.com/256-colors-cheat-sheet) - List of 256 colors for Xterm prompt (console)  
 [256 Colors](https://michurin.github.io/xterm256-color-picker/) - Online color picker for 256 colors terminal  
+[OldBook](https://github.com/PoisonIsBestType/OldBook) - https://github.com/PoisonIsBestType/OldBook
 
 ## The Blue Oyster
 | Color   | Hex                                                                    | RGB         | CTERM | Comment       |
