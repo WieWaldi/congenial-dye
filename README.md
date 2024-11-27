@@ -17,8 +17,8 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 [OldBook](https://github.com/PoisonIsBestType/OldBook) - A light colorscheme for dark theme users!
 
 ## The Blue Oyster
-| Color   | Hex                                                                    | RGB         | CTERM | Comment       |
-|---------|------------------------------------------------------------------------|-------------|-------|---------------|
+| Color   | Hex                                                             | RGB         | CTERM | Comment       |
+|---------|-----------------------------------------------------------------|-------------|-------|---------------|
 | base03  | ![#657b83](https://placehold.co/20/5f005f/5f005f.png) `#5f005f` | 95,0,0      | 53    | DeepPink4     |
 | base02  | ![#5f005f](https://placehold.co/20/870087/870087.png) `#870087` | 135,0,135   | 90    | DarkMagenta   |
 | base01  | ![#839496](https://placehold.co/20/af00d7/af00d7.png) `#af00d7` | 175,0,215   | 128   | DarkViolet    |
@@ -36,9 +36,25 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 | cyan    | ![#2aa198](https://placehold.co/20/2aa198/2aa198.png) `#2aa198` | 41,161,152  | 37    | gcyan         |
 | green   | ![#859900](https://placehold.co/20/859900/859900.png) `#859900` | 133,153,0   | 64    | green         |
 
+## The Blue Oyster Rainbow 1
+| Color   | Hex                                                             | RGB    | CTERM | Comment |
+|---------|-----------------------------------------------------------------|--------|-------|---------|
+| color0  | ![#859900](https://placehold.co/20/680000/680000.png) `#680000` | 8700ff | 093   |         |
+| color1  | ![#859900](https://placehold.co/20/7c2b00/7c2b00.png) `#7c2b00` | 875fff | 099   |         |
+| color2  | ![#859900](https://placehold.co/20/695700/695700.png) `#695700` | 8787ff | 105   |         |
+| color3  | ![#859900](https://placehold.co/20/044f00/044f00.png) `#044f00` | 87afff | 111   |         |
+| color4  | ![#859900](https://placehold.co/20/00505e/00505e.png) `#00505e` | 87d7ff | 117   |         |
+| color5  | ![#859900](https://placehold.co/20/000d63/000d63.png) `#000d63` | 87ffff | 123   |         |
+| color6  | ![#859900](https://placehold.co/20/360063/360063.png) `#360063` | afffff | 159   |         |
+| color7  | ![#859900](https://placehold.co/20/6e0039/6e0039.png) `#6e0039` | afd7ff | 153   |         |
+| color8  | ![#859900](https://placehold.co/20/000000/000000.png) `#000000` | afafff | 147   |         |
+| color9  | ![#859900](https://placehold.co/20/000000/000000.png) `#000000` | af87ff | 141   |         |
+| color10 | ![#859900](https://placehold.co/20/000000/000000.png) `#000000` | af5fff | 135   |         |
+| color11 | ![#859900](https://placehold.co/20/af00d7/af00d7.png) `#af00d7` | af00ff | 129   |         |
+
 #### dwm related colors
-| Color   | Hex                                                                    | RGB         | CTERM | Comment              |
-|---------|------------------------------------------------------------------------|-------------|-------|----------------------|
+| Color   | Hex                                                             | RGB         | CTERM | Comment              |
+|---------|-----------------------------------------------------------------|-------------|-------|----------------------|
 | color0  | ![#859900](https://placehold.co/20/680000/680000.png) `#680000` |             |       |                      |
 | color1  | ![#859900](https://placehold.co/20/7c2b00/7c2b00.png) `#7c2b00` |             |       |                      |
 | color2  | ![#859900](https://placehold.co/20/695700/695700.png) `#695700` |             |       |                      |
@@ -59,8 +75,8 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 
 
 ## Solarized
-| Color   | Hex                                                                    | RGB         | CTERM | Comment    |
-|---------|------------------------------------------------------------------------|-------------|-------|------------|
+| Color   | Hex                                                             | RGB         | CTERM | Comment    |
+|---------|-----------------------------------------------------------------|-------------|-------|------------|
 | base03  | ![#002b36](https://placehold.co/20/002b36/002b36.png) `#002b36` | 0,43,54     | 234   | brblack    |
 | base02  | ![#073642](https://placehold.co/20/073642/073642.png) `#073642` | 7,54,66     | 235   | bblack     |
 | base01  | ![#586e75](https://placehold.co/20/586e75/586e75.png) `#586e75` | 88,110,117  | 240   | bbrgreen   |
