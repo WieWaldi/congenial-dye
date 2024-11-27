@@ -52,6 +52,64 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 | color10 | ![#859900](https://placehold.co/20/af5fff/af5fff.png) `#af5fff` | af5fff | 135   |         |
 | color11 | ![#859900](https://placehold.co/20/af00ff/af00ff.png) `#af00ff` | af00ff | 129   |         |
 
+## The Blue Oyster Rainbow 2
+| Color   | Hex                                                             | RGB    | CTERM | Comment |
+|---------|-----------------------------------------------------------------|--------|-------|---------|
+| color0  | ![#859900](https://placehold.co/20/0000af/0000af.png) `#0000af` | 0000af | 019   |         |
+| color1  | ![#859900](https://placehold.co/20/005fd7/005fd7.png) `#005fd7` | 005fd7 | 026   |         |
+| color2  | ![#859900](https://placehold.co/20/0087ff/0087ff.png) `#0087ff` | 0087ff | 033   |         |
+| color3  | ![#859900](https://placehold.co/20/87afff/87afff.png) `#87afff` | 87afff | 111   |         |
+| color4  | ![#859900](https://placehold.co/20/87d7d7/87d7d7.png) `#87d7d7` | 87d7d7 | 116   |         |
+| color5  | ![#859900](https://placehold.co/20/87ffaf/87ffaf.png) `#87ffaf` | 87ffaf | 121   |         |
+| color6  | ![#859900](https://placehold.co/20/afff87/afff87.png) `#afff87` | afff87 | 156   |         |
+| color7  | ![#859900](https://placehold.co/20/afd75f/afd75f.png) `#afd75f` | afd75f | 149   |         |
+| color8  | ![#859900](https://placehold.co/20/afaf00/afaf00.png) `#afaf00` | afaf00 | 142   |         |
+| color9  | ![#859900](https://placehold.co/20/ff8700/ff8700.png) `#ff8700` | ff8700 | 208   |         |
+| color10 | ![#859900](https://placehold.co/20/ff5f5f/ff5f5f.png) `#ff5f5f` | ff5f5f | 203   |         |
+| color11 | ![#859900](https://placehold.co/20/ff0087/ff0087.png) `#ff0087` | ff0087 | 198   |         |
+
+## The Blue Oyster Rainbow 3
+| Color  | Hex                                                             | RGB    | CTERM | Comment |
+|--------|-----------------------------------------------------------------|--------|-------|---------|
+| color0 | ![#859900](https://placehold.co/20/FF595E/FF595E.png) `#FF595E` | FF595E |       |         |
+| color1 | ![#859900](https://placehold.co/20/FF924C/FF924C.png) `#FF924C` | FF924C |       |         |
+| color2 | ![#859900](https://placehold.co/20/FFCA3A/FFCA3A.png) `#FFCA3A` | FFCA3A |       |         |
+| color3 | ![#859900](https://placehold.co/20/C5CA30/C5CA30.png) `#C5CA30` | C5CA30 |       |         |
+| color4 | ![#859900](https://placehold.co/20/8AC926/8AC926.png) `#8AC926` | 8AC926 |       |         |
+| color5 | ![#859900](https://placehold.co/20/36949D/36949D.png) `#36949D` | 36949D |       |         |
+| color6 | ![#859900](https://placehold.co/20/1982C4/1982C4.png) `#1982C4` | 1982C4 |       |         |
+| color7 | ![#859900](https://placehold.co/20/4267AC/4267AC.png) `#4267AC` | 4267AC |       |         |
+| color8 | ![#859900](https://placehold.co/20/565AA0/565AA0.png) `#565AA0` | 565AA0 |       |         |
+| color9 | ![#859900](https://placehold.co/20/6A4C93/6A4C93.png) `#6A4C93` | 6A4C93 |       |         |
+
+## The Blue Oyster Gradient 1
+| Color  | Hex                                                             | RGB    | CTERM | Comment |
+|--------|-----------------------------------------------------------------|--------|-------|---------|
+| color0 | ![#859900](https://placehold.co/20/7400B8/7400B8.png) `#7400B8` | 7400B8 |       |         |
+| color1 | ![#859900](https://placehold.co/20/8013BD/8013BD.png) `#8013BD` | 8013BD |       |         |
+| color2 | ![#859900](https://placehold.co/20/8B26C3/8B26C3.png) `#8B26C3` | 8B26C3 |       |         |
+| color3 | ![#859900](https://placehold.co/20/9739C8/9739C8.png) `#9739C8` | 9739C8 |       |         |
+| color4 | ![#859900](https://placehold.co/20/A24CCD/A24CCD.png) `#A24CCD` | A24CCD |       |         |
+| color5 | ![#859900](https://placehold.co/20/AE60D3/AE60D3.png) `#AE60D3` | AE60D3 |       |         |
+| color6 | ![#859900](https://placehold.co/20/B973D8/B973D8.png) `#B973D8` | B973D8 |       |         |
+| color7 | ![#859900](https://placehold.co/20/C586DD/C586DD.png) `#C586DD` | C586DD |       |         |
+| color8 | ![#859900](https://placehold.co/20/D099E3/D099E3.png) `#D099E3` | D099E3 |       |         |
+| color9 | ![#859900](https://placehold.co/20/DCACE8/DCACE8.png) `#DCACE8` | DCACE8 |       |         |
+
+## The Blue Oyster Gradient 2
+| Color  | Hex                                                             | RGB    | CTERM | Comment |
+|--------|-----------------------------------------------------------------|--------|-------|---------|
+| color0 | ![#859900](https://placehold.co/20/7400B8/7400B8.png) `#7400B8` | 7400B8 |       |         |
+| color1 | ![#859900](https://placehold.co/20/8013BD/8013BD.png) `#8013BD` | 8013BD |       |         |
+| color2 | ![#859900](https://placehold.co/20/8B26C3/8B26C3.png) `#8B26C3` | 8B26C3 |       |         |
+| color3 | ![#859900](https://placehold.co/20/9739C8/9739C8.png) `#9739C8` | 9739C8 |       |         |
+| color4 | ![#859900](https://placehold.co/20/A24CCD/A24CCD.png) `#A24CCD` | A24CCD |       |         |
+| color5 | ![#859900](https://placehold.co/20/AE60D3/AE60D3.png) `#AE60D3` | AE60D3 |       |         |
+| color6 | ![#859900](https://placehold.co/20/B973D8/B973D8.png) `#B973D8` | B973D8 |       |         |
+| color7 | ![#859900](https://placehold.co/20/C586DD/C586DD.png) `#C586DD` | C586DD |       |         |
+| color8 | ![#859900](https://placehold.co/20/D099E3/D099E3.png) `#D099E3` | D099E3 |       |         |
+| color9 | ![#859900](https://placehold.co/20/DCACE8/DCACE8.png) `#DCACE8` | DCACE8 |       |         |
+
 #### dwm related colors
 | Color   | Hex                                                             | RGB         | CTERM | Comment              |
 |---------|-----------------------------------------------------------------|-------------|-------|----------------------|
