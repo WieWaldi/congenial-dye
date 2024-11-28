@@ -67,6 +67,10 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 | color9  | ![#859900](https://placehold.co/20/ff8700/ff8700.png) `#ff8700` | 255, 135, 0   | 208   |         |
 | color10 | ![#859900](https://placehold.co/20/ff5f5f/ff5f5f.png) `#ff5f5f` | 255, 95, 95   | 203   |         |
 | color11 | ![#859900](https://placehold.co/20/ff0087/ff0087.png) `#ff0087` | 255, 0, 135   | 198   |         |
+| color12 | ![#859900](https://placehold.co/20/1c1c1c/1c1c1c.png) `#1c1c1c` | 28, 28, 28    | 234   |         |
+| color13 | ![#859900](https://placehold.co/20/585858/585858.png) `#585858` | 88, 88, 88    | 240   |         |
+| color14 | ![#859900](https://placehold.co/20/808080/808080.png) `#808080` | 128, 128, 128 | 244   |         |
+| color15 | ![#859900](https://placehold.co/20/d0d0d0/d0d0d0.png) `#d0d0d0` | 208, 208, 208 | 252   |         |
 
 ## The Blue Oyster Rainbow 3
 | Color  | Hex                                                             | RGB          | CTERM | Comment |
