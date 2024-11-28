@@ -103,16 +103,16 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 ## The Blue Oyster Gradient 2
 | Color  | Hex                                                             | RGB           | CTERM | Comment |
 |--------|-----------------------------------------------------------------|---------------|-------|---------|
-| color0 | ![#859900](https://placehold.co/20/7400B8/7400B8.png) `#7400B8` | 116, 0, 184   |       |         |
-| color1 | ![#859900](https://placehold.co/20/8013BD/8013BD.png) `#8013BD` | 128, 19, 189  |       |         |
-| color2 | ![#859900](https://placehold.co/20/8B26C3/8B26C3.png) `#8B26C3` | 139, 38, 195  |       |         |
-| color3 | ![#859900](https://placehold.co/20/9739C8/9739C8.png) `#9739C8` | 151, 57, 200  |       |         |
-| color4 | ![#859900](https://placehold.co/20/A24CCD/A24CCD.png) `#A24CCD` | 162, 76, 205  |       |         |
-| color5 | ![#859900](https://placehold.co/20/AE60D3/AE60D3.png) `#AE60D3` | 174, 96, 211  |       |         |
-| color6 | ![#859900](https://placehold.co/20/B973D8/B973D8.png) `#B973D8` | 185, 115, 216 |       |         |
-| color7 | ![#859900](https://placehold.co/20/C586DD/C586DD.png) `#C586DD` | 197, 134, 221 |       |         |
-| color8 | ![#859900](https://placehold.co/20/D099E3/D099E3.png) `#D099E3` | 208, 153, 227 |       |         |
-| color9 | ![#859900](https://placehold.co/20/DCACE8/DCACE8.png) `#DCACE8` | 220, 172, 232 |       |         |
+| color0 | ![#859900](https://placehold.co/20/5f005f/5f005f.png) `#5f005f` | 116, 0, 184   |       |         |
+| color1 | ![#859900](https://placehold.co/20/690E69/690E69.png) `#690E69` | 105, 14, 105  |       |         |
+| color2 | ![#859900](https://placehold.co/20/7E297E/7E297E.png) `#7E297E` | 126, 41, 126  |       |         |
+| color3 | ![#859900](https://placehold.co/20/934692/934692.png) `#934692` | 147, 70, 146  |       |         |
+| color4 | ![#859900](https://placehold.co/20/A761A7/A761A7.png) `#A761A7` | 167, 97, 167  |       |         |
+| color5 | ![#859900](https://placehold.co/20/BC7DBC/BC7DBC.png) `#BC7DBC` | 188, 125, 188 |       |         |
+| color6 | ![#859900](https://placehold.co/20/D199D1/D199D1.png) `#D199D1` | 209, 153, 209 |       |         |
+| color7 | ![#859900](https://placehold.co/20/E6B5E6/E6B5E6.png) `#E6B5E6` | 230, 181, 230 |       |         |
+| color8 | ![#859900](https://placehold.co/20/FAD0FA/FAD0FA.png) `#FAD0FA` | 250, 208, 250 |       |         |
+| color9 | ![#859900](https://placehold.co/20/FFD7FF/FFD7FF.png) `#FFD7FF` | 255, 215, 255 |       |         |
 
 #### dwm related colors
 | Color   | Hex                                                             | RGB         | CTERM | Comment              |
