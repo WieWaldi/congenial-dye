@@ -153,6 +153,37 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 | color19 | ![#859900](https://placehold.co/30/FF5100/FF5100.png) `#FF5100` | 255, 81, 0  |       | Blood orange        |
 | color20 | ![#859900](https://placehold.co/30/FF1000/FF1000.png) `#FF1000` | 255, 16, 0  |       | Fire engine red     |
 
+## Rainbow Gradient with 25 Steps
+| Color   | Hex                                                             | RGB         | CTERM | Comment |
+|---------|-----------------------------------------------------------------|-------------|-------|---------|
+| color0  | ![#859900](https://placehold.co/30/FF0000/FF0000.png) `#FF0000` | 255, 0, 0   |       |         |
+| color1  | ![#859900](https://placehold.co/30/FF3700/FF3700.png) `#FF3700` | 255, 55, 0  |       |         |
+| color2  | ![#859900](https://placehold.co/30/FF6E00/FF6E00.png) `#FF6E00` | 255, 110, 0 |       |         |
+| color3  | ![#859900](https://placehold.co/30/FFA500/FFA500.png) `#FFA500` | 255, 165, 0 |       |         |
+| color4  | ![#859900](https://placehold.co/30/FFDC00/FFDC00.png) `#FFDC00` | 255, 220, 0 |       |         |
+| color5  | ![#859900](https://placehold.co/30/EAFF00/EAFF00.png) `#EAFF00` | 234, 255, 0 |       |         |
+| color6  | ![#859900](https://placehold.co/30/B3FF00/B3FF00.png) `#B3FF00` | 179, 255, 0 |       |         |
+| color7  | ![#859900](https://placehold.co/30/7CFF00/7CFF00.png) `#7CFF00` | 124, 255, 0 |       |         |
+| color8  | ![#859900](https://placehold.co/30/45FF00/45FF00.png) `#45FF00` | 69, 255, 0  |       |         |
+| color9  | ![#859900](https://placehold.co/30/0EFF00/0EFF00.png) `#0EFF00` | 14, 255, 0  |       |         |
+| color10 | ![#859900](https://placehold.co/30/00FF29/00FF29.png) `#00FF29` | 0, 255, 41  |       |         |
+| color11 | ![#859900](https://placehold.co/30/00FF61/00FF61.png) `#00FF61` | 0, 255, 97  |       |         |
+| color12 | ![#859900](https://placehold.co/30/00FF98/00FF98.png) `#00FF98` | 0, 255, 152 |       |         |
+| color13 | ![#859900](https://placehold.co/30/00FFCF/00FFCF.png) `#00FFCF` | 0, 255, 207 |       |         |
+| color14 | ![#859900](https://placehold.co/30/00F8FF/00F8FF.png) `#00F8FF` | 0, 248, 255 |       |         |
+| color15 | ![#859900](https://placehold.co/30/00C1FF/00C1FF.png) `#00C1FF` | 0, 193, 255 |       |         |
+| color16 | ![#859900](https://placehold.co/30/008AFF/008AFF.png) `#008AFF` | 0, 138, 255 |       |         |
+| color17 | ![#859900](https://placehold.co/30/0053FF/0053FF.png) `#0053FF` | 0, 83, 255  |       |         |
+| color18 | ![#859900](https://placehold.co/30/001BFF/001BFF.png) `#001BFF` | 0, 27, 255  |       |         |
+| color19 | ![#859900](https://placehold.co/30/1C00FF/1C00FF.png) `#1C00FF` | 28, 0, 255  |       |         |
+| color20 | ![#859900](https://placehold.co/30/5300FF/5300FF.png) `#5300FF` | 83, 0, 255  |       |         |
+| color21 | ![#859900](https://placehold.co/30/8A00FF/8A00FF.png) `#8A00FF` | 138, 0, 255 |       |         |
+| color22 | ![#859900](https://placehold.co/30/C101FF/C101FF.png) `#C101FF` | 193, 1, 255 |       |         |
+| color23 | ![#859900](https://placehold.co/30/F900FF/F900FF.png) `#F900FF` | 249, 0, 255 |       |         |
+| color24 | ![#859900](https://placehold.co/30/FF00CF/FF00CF.png) `#FF00CF` | 255, 0, 207 |       |         |
+
+
+
 #### dwm related colors
 | Color   | Hex                                                             | RGB         | CTERM | Comment              |
 |---------|-----------------------------------------------------------------|-------------|-------|----------------------|
