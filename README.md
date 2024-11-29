@@ -153,7 +153,7 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 | color19 | ![#859900](https://placehold.co/30/FF5100/FF5100.png) `#FF5100` | 255, 81, 0  |       | Blood orange        |
 | color20 | ![#859900](https://placehold.co/30/FF1000/FF1000.png) `#FF1000` | 255, 16, 0  |       | Fire engine red     |
 
-## Rainbow Gradient with 25 Steps
+## Rainbow Gradient with 25 Steps - Vibrant
 | Color   | Hex                                                             | RGB         | CTERM | Comment |
 |---------|-----------------------------------------------------------------|-------------|-------|---------|
 | color0  | ![#859900](https://placehold.co/30/FF0000/FF0000.png) `#FF0000` | 255, 0, 0   |       |         |
@@ -182,7 +182,34 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 | color23 | ![#859900](https://placehold.co/30/F900FF/F900FF.png) `#F900FF` | 249, 0, 255 |       |         |
 | color24 | ![#859900](https://placehold.co/30/FF00CF/FF00CF.png) `#FF00CF` | 255, 0, 207 |       |         |
 
-
+## Rainbow Gradient with 25 Steps - Pastel
+| Color   | Hex                                                             | RGB          | CTERM | Comment |
+|---------|-----------------------------------------------------------------|--------------|-------|---------|
+| color0  | ![#859900](https://placehold.co/30/AF1B7C/AF1B7C.png) `#FF0000` | 175, 27, 124 |       |         |
+| color1  | ![#859900](https://placehold.co/30/AF1B93/AF1B93.png) `#FF3700` | 175, 27, 147 |       |         |
+| color2  | ![#859900](https://placehold.co/30/AF1BAA/AF1BAA.png) `#FF6E00` | 175, 27, 170 |       |         |
+| color3  | ![#859900](https://placehold.co/30/9C1BAF/9C1BAF.png) `#FFA500` | 156, 27, 175 |       |         |
+| color4  | ![#859900](https://placehold.co/30/861BAF/861BAF.png) `#FFDC00` | 134, 27, 175 |       |         |
+| color5  | ![#859900](https://placehold.co/30/691BAF/691BAF.png) `#EAFF00` | 105, 27, 175 |       |         |
+| color6  | ![#859900](https://placehold.co/30/521BAF/521BAF.png) `#B3FF00` | 82, 27, 175  |       |         |
+| color7  | ![#859900](https://placehold.co/30/3B1BAF/3B1BAF.png) `#7CFF00` | 59, 27, 175  |       |         |
+| color8  | ![#859900](https://placehold.co/30/241BAF/241BAF.png) `#45FF00` | 36, 27, 175  |       |         |
+| color9  | ![#859900](https://placehold.co/30/1B3FAF/1B3FAF.png) `#0EFF00` | 27, 63, 175  |       |         |
+| color10 | ![#859900](https://placehold.co/30/1B6DAF/1B6DAF.png) `#00FF29` | 27, 109, 175 |       |         |
+| color11 | ![#859900](https://placehold.co/30/1B84AF/1B84AF.png) `#00FF61` | 27, 132, 175 |       |         |
+| color12 | ![#859900](https://placehold.co/30/1B9BAF/1B9BAF.png) `#00FF98` | 27, 155, 175 |       |         |
+| color13 | ![#859900](https://placehold.co/30/1BAFAC/1BAFAC.png) `#00FFCF` | 27, 175, 172 |       |         |
+| color14 | ![#859900](https://placehold.co/30/1BAF7E/1BAF7E.png) `#00F8FF` | 27, 175, 126 |       |         |
+| color15 | ![#859900](https://placehold.co/30/1BAF4B/1BAF4B.png) `#00C1FF` | 27, 175, 75  |       |         |
+| color16 | ![#859900](https://placehold.co/30/1BAF1D/1BAF1D.png) `#008AFF` | 27, 175, 29  |       |         |
+| color17 | ![#859900](https://placehold.co/30/5EAF1B/5EAF1B.png) `#0053FF` | 94, 175, 27  |       |         |
+| color18 | ![#859900](https://placehold.co/30/8CAF1B/8CAF1B.png) `#001BFF` | 140, 175, 27 |       |         |
+| color19 | ![#859900](https://placehold.co/30/A2AF1B/A2AF1B.png) `#1C00FF` | 162, 175, 27 |       |         |
+| color20 | ![#859900](https://placehold.co/30/AF8E1B/AF8E1B.png) `#5300FF` | 175, 142, 27 |       |         |
+| color21 | ![#859900](https://placehold.co/30/AF761B/AF761B.png) `#8A00FF` | 175, 118, 27 |       |         |
+| color22 | ![#859900](https://placehold.co/30/AF5F1B/AF5F1B.png) `#C101FF` | 175, 95, 27  |       |         |
+| color23 | ![#859900](https://placehold.co/30/AF431B/AF431B.png) `#F900FF` | 175, 67, 27  |       |         |
+| color24 | ![#859900](https://placehold.co/30/AF1B1B/AF1B1B.png) `#FF00CF` | 175, 27, 27  |       |         |
 
 #### dwm related colors
 | Color   | Hex                                                             | RGB         | CTERM | Comment              |
