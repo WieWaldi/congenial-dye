@@ -131,27 +131,27 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 ## Rainbow Gradient with 21 Steps
 | Color   | Hex                                                             | RGB         | CTERM | Comment             |
 |---------|-----------------------------------------------------------------|-------------|-------|---------------------|
-| color0  | ![#859900](https://placehold.co/20/FF00D1/FF00D1.png) `#FF00D1` | 255, 0, 209 |       | Hot magenta         |
-| color1  | ![#859900](https://placehold.co/20/EC00FF/EC00FF.png) `#EC00FF` | 236, 0, 255 |       | Hot purple          |
-| color2  | ![#859900](https://placehold.co/20/AC00FF/AC00FF.png) `#AC00FF` | 172, 0, 255 |       | Bright violet       |
-| color3  | ![#859900](https://placehold.co/20/6B00FF/6B00FF.png) `#6B00FF` | 107, 0, 255 |       | Blue/purple         |
-| color4  | ![#859900](https://placehold.co/20/2B00FF/2B00FF.png) `#2B00FF` | 43, 0, 255  |       | Primary blue        |
-| color5  | ![#859900](https://placehold.co/20/0015FF/0015FF.png) `#0015FF` | 0, 21, 255  |       | Strong blue         |
-| color6  | ![#859900](https://placehold.co/20/0056FF/0056FF.png) `#0056FF` | 0, 86, 255  |       | Electric blue       |
-| color7  | ![#859900](https://placehold.co/20/0096FF/0096FF.png) `#0096FF` | 0, 150, 255 |       | Azure               |
-| color8  | ![#859900](https://placehold.co/20/00D7FF/00D7FF.png) `#00D7FF` | 0, 215, 255 |       | Neon blue           |
-| color9  | ![#859900](https://placehold.co/20/00FFE7/00FFE7.png) `#00FFE7` | 0, 255, 231 |       | Bright aqua         |
-| color10 | ![#859900](https://placehold.co/20/00FFA6/00FFA6.png) `#00FFA6` | 0, 255, 166 |       | Bright sea green    |
-| color11 | ![#859900](https://placehold.co/20/00FF66/00FF66.png) `#00FF66` | 0, 255, 102 |       | Bright light greeen |
-| color12 | ![#859900](https://placehold.co/20/00FF26/00FF26.png) `#00FF26` | 0, 255, 38  |       | Hot green           |
-| color13 | ![#859900](https://placehold.co/20/1BFF00/1BFF00.png) `#1BFF00` | 27, 255, 0  |       | Fluro green         |
-| color14 | ![#859900](https://placehold.co/20/5BFF00/5BFF00.png) `#5BFF00` | 91, 255, 0  |       | Bright lime green   |
-| color15 | ![#859900](https://placehold.co/20/9CFF00/9CFF00.png) `#9CFF00` | 156, 255, 0 |       | Bright yellow green |
-| color16 | ![#859900](https://placehold.co/20/DDFF00/DDFF00.png) `#DDFF00` | 221, 255, 0 |       | Neon yellow         |
-| color17 | ![#859900](https://placehold.co/20/FFE101/FFE101.png) `#FFE101` | 255, 225, 1 |       | Dandelion           |
-| color18 | ![#859900](https://placehold.co/20/FFA100/FFA100.png) `#FFA100` | 255, 161, 0 |       | Yellowish orange    |
-| color19 | ![#859900](https://placehold.co/20/FF5100/FF5100.png) `#FF5100` | 255, 81, 0  |       | Blood orange        |
-| color20 | ![#859900](https://placehold.co/20/FF1000/FF1000.png) `#FF1000` | 255, 16, 0  |       | Fire engine red     |
+| color0  | ![#859900](https://placehold.co/30/FF00D1/FF00D1.png) `#FF00D1` | 255, 0, 209 |       | Hot magenta         |
+| color1  | ![#859900](https://placehold.co/30/EC00FF/EC00FF.png) `#EC00FF` | 236, 0, 255 |       | Hot purple          |
+| color2  | ![#859900](https://placehold.co/30/AC00FF/AC00FF.png) `#AC00FF` | 172, 0, 255 |       | Bright violet       |
+| color3  | ![#859900](https://placehold.co/30/6B00FF/6B00FF.png) `#6B00FF` | 107, 0, 255 |       | Blue/purple         |
+| color4  | ![#859900](https://placehold.co/30/2B00FF/2B00FF.png) `#2B00FF` | 43, 0, 255  |       | Primary blue        |
+| color5  | ![#859900](https://placehold.co/30/0015FF/0015FF.png) `#0015FF` | 0, 21, 255  |       | Strong blue         |
+| color6  | ![#859900](https://placehold.co/30/0056FF/0056FF.png) `#0056FF` | 0, 86, 255  |       | Electric blue       |
+| color7  | ![#859900](https://placehold.co/30/0096FF/0096FF.png) `#0096FF` | 0, 150, 255 |       | Azure               |
+| color8  | ![#859900](https://placehold.co/30/00D7FF/00D7FF.png) `#00D7FF` | 0, 215, 255 |       | Neon blue           |
+| color9  | ![#859900](https://placehold.co/30/00FFE7/00FFE7.png) `#00FFE7` | 0, 255, 231 |       | Bright aqua         |
+| color10 | ![#859900](https://placehold.co/30/00FFA6/00FFA6.png) `#00FFA6` | 0, 255, 166 |       | Bright sea green    |
+| color11 | ![#859900](https://placehold.co/30/00FF66/00FF66.png) `#00FF66` | 0, 255, 102 |       | Bright light greeen |
+| color12 | ![#859900](https://placehold.co/30/00FF26/00FF26.png) `#00FF26` | 0, 255, 38  |       | Hot green           |
+| color13 | ![#859900](https://placehold.co/30/1BFF00/1BFF00.png) `#1BFF00` | 27, 255, 0  |       | Fluro green         |
+| color14 | ![#859900](https://placehold.co/30/5BFF00/5BFF00.png) `#5BFF00` | 91, 255, 0  |       | Bright lime green   |
+| color15 | ![#859900](https://placehold.co/30/9CFF00/9CFF00.png) `#9CFF00` | 156, 255, 0 |       | Bright yellow green |
+| color16 | ![#859900](https://placehold.co/30/DDFF00/DDFF00.png) `#DDFF00` | 221, 255, 0 |       | Neon yellow         |
+| color17 | ![#859900](https://placehold.co/30/FFE101/FFE101.png) `#FFE101` | 255, 225, 1 |       | Dandelion           |
+| color18 | ![#859900](https://placehold.co/30/FFA100/FFA100.png) `#FFA100` | 255, 161, 0 |       | Yellowish orange    |
+| color19 | ![#859900](https://placehold.co/30/FF5100/FF5100.png) `#FF5100` | 255, 81, 0  |       | Blood orange        |
+| color20 | ![#859900](https://placehold.co/30/FF1000/FF1000.png) `#FF1000` | 255, 16, 0  |       | Fire engine red     |
 
 #### dwm related colors
 | Color   | Hex                                                             | RGB         | CTERM | Comment              |
