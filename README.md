@@ -17,27 +17,27 @@ themes. Somehow all this stuff has to be documented in somehow and refered to.
 [OldBook](https://github.com/PoisonIsBestType/OldBook) - A light colorscheme for dark theme users!
 
 ## The Blue Oyster
-| Color   | Hex                                                             | RGB           | CTERM | Comment    |
-|---------|-----------------------------------------------------------------|---------------|-------|------------|
-| base03  | ![#002b36](https://placehold.co/20/002b36/002b36.png) `#002b36` | 0,43,54       | 234   | brblack    |
-| base02  | ![#073642](https://placehold.co/20/073642/073642.png) `#073642` | 7,54,66       | 235   | bblack     |
-| base01  | ![#586e75](https://placehold.co/20/586e75/586e75.png) `#586e75` | 88,110,117    | 240   | bbrgreen   |
-| base00  | ![#657b83](https://placehold.co/20/657b83/657b83.png) `#657b83` | 101,123,131   | 241   | bbryellow  |
-| base0   | ![#839496](https://placehold.co/20/839496/839496.png) `#839496` | 131,148,150   | 244   | bbrblue    |
-| base1   | ![#93a1a1](https://placehold.co/20/93a1a1/93a1a1.png) `#93a1a1` | 147,161,161   | 245   | wbrcyan    |
-| base2   | ![#eee8d5](https://placehold.co/20/eee8d5/eee8d5.png) `#eee8d5` | 238,232,213   | 254   | bwhite     |
-| base3   | ![#fdf6e3](https://placehold.co/20/fdf6e3/fdf6e3.png) `#fdf6e3` | 253,246,227   | 230   | ybrwhite   |
-| yellow  | ![#b58900](https://placehold.co/20/b58900/b58900.png) `#b58900` | 181,137.0     | 136   | byellow    |
-| orange  | ![#cb4b16](https://placehold.co/20/cb4b16/cb4b16.png) `#cb4b16` | 203,75,22     | 166   | rbrred     |
-| red     | ![#dc322f](https://placehold.co/20/dc322f/dc322f.png) `#dc322f` | 220,50,47     | 160   | mred       |
-| magenta | ![#d33682](https://placehold.co/20/d33682/d33682.png) `#d33682` | 211,54,130    | 125   | bmagenta   |
-| violet  | ![#6c71c4](https://placehold.co/20/6c71c4/6c71c4.png) `#6c71c4` | 108,113,196   | 61    | bbrmagenta |
-| blue    | ![#268bd2](https://placehold.co/20/268bd2/268bd2.png) `#268bd2` | 38,139,210    | 33    | cblue      |
-| cyan    | ![#2aa198](https://placehold.co/20/2aa198/2aa198.png) `#2aa198` | 41,161,152    | 37    | gcyan      |
-| green   | ![#859900](https://placehold.co/20/859900/859900.png) `#859900` | 133,153,0     | 64    | green      |
-| accent1 | ![#5f005f](https://placehold.co/20/5f005f/5f005f.png) `#5f005f` | 95, 0, 95     | 53    | green      |
-| accent2 | ![#8700af](https://placehold.co/20/8700af/8700af.png) `#8700af` | 135, 0, 175   | 91    | green      |
-| accent1 | ![#af87d7](https://placehold.co/20/af87d7/af87d7.png) `#af87d7` | 175, 135, 215 | 140   | green      |
+| Color   | Hex                                                             | RGB           | CTERM | Comment      |
+|---------|-----------------------------------------------------------------|---------------|-------|--------------|
+| base03  | ![#002b36](https://placehold.co/30/002b36/002b36.png) `#002b36` | 0,43,54       | 234   | brblack      |
+| base02  | ![#073642](https://placehold.co/30/073642/073642.png) `#073642` | 7,54,66       | 235   | bblack       |
+| base01  | ![#586e75](https://placehold.co/30/586e75/586e75.png) `#586e75` | 88,110,117    | 240   | bbrgreen     |
+| base00  | ![#657b83](https://placehold.co/30/657b83/657b83.png) `#657b83` | 101,123,131   | 241   | bbryellow    |
+| base0   | ![#839496](https://placehold.co/30/839496/839496.png) `#839496` | 131,148,150   | 244   | bbrblue      |
+| base1   | ![#93a1a1](https://placehold.co/30/93a1a1/93a1a1.png) `#93a1a1` | 147,161,161   | 245   | wbrcyan      |
+| base2   | ![#eee8d5](https://placehold.co/30/eee8d5/eee8d5.png) `#eee8d5` | 238,232,213   | 254   | bwhite       |
+| base3   | ![#fdf6e3](https://placehold.co/30/fdf6e3/fdf6e3.png) `#fdf6e3` | 253,246,227   | 230   | ybrwhite     |
+| yellow  | ![#b58900](https://placehold.co/30/b58900/b58900.png) `#b58900` | 181,137.0     | 136   | byellow      |
+| orange  | ![#cb4b16](https://placehold.co/30/cb4b16/cb4b16.png) `#cb4b16` | 203,75,22     | 166   | rbrred       |
+| red     | ![#dc322f](https://placehold.co/30/dc322f/dc322f.png) `#dc322f` | 220,50,47     | 160   | mred         |
+| magenta | ![#d33682](https://placehold.co/30/d33682/d33682.png) `#d33682` | 211,54,130    | 125   | bmagenta     |
+| violet  | ![#6c71c4](https://placehold.co/30/6c71c4/6c71c4.png) `#6c71c4` | 108,113,196   | 61    | bbrmagenta   |
+| blue    | ![#268bd2](https://placehold.co/30/268bd2/268bd2.png) `#268bd2` | 38,139,210    | 33    | cblue        |
+| cyan    | ![#2aa198](https://placehold.co/30/2aa198/2aa198.png) `#2aa198` | 41,161,152    | 37    | gcyan        |
+| green   | ![#859900](https://placehold.co/30/859900/859900.png) `#859900` | 133,153,0     | 64    | green        |
+| accent1 | ![#5f005f](https://placehold.co/30/5f005f/5f005f.png) `#5f005f` | 95, 0, 95     | 53    | Deep Pink 1  |
+| accent2 | ![#8700af](https://placehold.co/30/8700af/8700af.png) `#8700af` | 135, 0, 175   | 91    | Dark Magenta |
+| accent1 | ![#af87d7](https://placehold.co/30/af87d7/af87d7.png) `#af87d7` | 175, 135, 215 | 140   | Dark Violet  |
 
 ## The Blue Oyster Rainbow 1
 | Color   | Hex                                                             | RGB           | CTERM | Comment |
